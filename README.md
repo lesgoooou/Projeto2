@@ -16,7 +16,7 @@ Pontuação: Cada inimigo derrotado soma 1 ponto à pontuação do jogador.
 Sistema de vidas: O jogador começa com 3 vidas. Ao perder todas, o jogo termina com um Game Over.
 
 🛠️ Estrutura do Código
-main.c: Contém a lógica principal do jogo.
+SpaceShooter.c: Contém a lógica principal do jogo.
 struct Estado: Armazena a posição do jogador, inimigos, tiros e status do jogo.
 Movimentação e Tiro:
 Função moverTiro: Move o tiro do jogador e verifica colisões.
