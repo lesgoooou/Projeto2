@@ -71,4 +71,4 @@ Implementar movimentação vertical para os inimigos.
 Adicionar efeitos sonoros e melhorias visuais.
 Incluir um menu inicial e opção de reinício.
 
-Feito com ❤️ por Bruno Budano, Daniel Clemente e Gabriel Andrade.
+Feito com ❤️ por Bruno Budano RA: 221240062, Daniel Clemente RA 221240781 e Gabriel Andrade RA: 221240757.
